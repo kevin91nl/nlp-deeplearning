@@ -1,3 +1,4 @@
 pandas==0.20.3
 nltk==3.2.4
 sklearn==0.18.2
+keras==2.0.6
